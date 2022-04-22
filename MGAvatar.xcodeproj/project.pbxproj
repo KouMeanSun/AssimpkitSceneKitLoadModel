@@ -147,6 +147,7 @@
 		5AC1D31128114FE000ABC442 /* spider.obj */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = spider.obj; sourceTree = "<group>"; };
 		5AC1D31628114FFD00ABC442 /* OBJController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = OBJController.h; sourceTree = "<group>"; };
 		5AC1D31728114FFD00ABC442 /* OBJController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = OBJController.m; sourceTree = "<group>"; };
+		5AC4213E2812514500D153E4 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -232,6 +233,7 @@
 		5AC1D2D52810FD4500ABC442 = {
 			isa = PBXGroup;
 			children = (
+				5AC4213E2812514500D153E4 /* README.md */,
 				5AC1D2E02810FD4500ABC442 /* MGAvatar */,
 				5AC1D2DF2810FD4500ABC442 /* Products */,
 			);
