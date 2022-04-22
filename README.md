@@ -2,15 +2,17 @@
 
 ## 目前测试通过可以显示的模型有 .obj .fbx .md5mesh ，其中.md5mesh 如果有动画文件.md5anim 也可以播放动画.
 
-## 一下是引用的库连接
-[assimp]:https://github.com/assimp/assimp
-	
-[AssimpKit]: https://github.com/dmsurti/AssimpKit
+## 以下是引用的库连接
 
-[AssimpKitCarthage-iOSDemo]:https://github.com/dmsurti/AssimpKitCarthage-iOSDemo
+[assimp](https://github.com/assimp/assimp)
+	
+[AssimpKit](https://github.com/dmsurti/AssimpKit)
+
+[AssimpKitCarthage-iOSDemo](https://github.com/dmsurti/AssimpKitCarthage-iOSDemo)
 
 ## 另外我这边用的AssimpKit源码我已经稍微修改了一下，参考链接是：
-[腾讯云]:https://cloud.tencent.com/developer/article/1116957
+
+[腾讯云](https://cloud.tencent.com/developer/article/1116957)
 
 ### 核心代码如下所示:
 ``` Objective-c
